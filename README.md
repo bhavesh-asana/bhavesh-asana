@@ -13,15 +13,14 @@
 ```javascript
 const bhavesh = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, Kotlin],
+  tools: [React, Redux, Node, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        databases: "SQL, MongoDB, Cassandra",
+                        cloud: "AWS, GCP, Digital Ocean, Azure",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  domans & talks : [AI, ML]
 }
 ```
 
