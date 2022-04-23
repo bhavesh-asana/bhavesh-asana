@@ -4,8 +4,8 @@
 </em></p> -->
 
 <!-- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
-[![Linkedin: bhavesh-asana](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavesh-asana/)](https://www.linkedin.com/in/bhavesh-asana/)
-[![GitHub bhavesh-asana](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/bhavesh-asana)
+[![Linkedin: bhavesh-asana](https://img.shields.io/badge/-bhavesh-asana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavesh-asana/)](https://www.linkedin.com/in/bhavesh-asana/)
+[![GitHub bhavesh-asana](https://img.shields.io/github/followers/bhavesh-asana?label=follow&style=social)](https://github.com/bhavesh-asana)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
